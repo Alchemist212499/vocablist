@@ -1,0 +1,10 @@
+h1 {
+  font-size: 80px;
+}
+
+* {
+  font-family: poppins;
+  background-color: black;
+  color: white;
+  box-sizing: border-box;
+}
